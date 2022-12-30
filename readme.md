@@ -52,6 +52,11 @@ body{
 ```
 Mesmo pesquisando, eu ainda queria continuar usando o display:grid, então lembrei que se eu colocasse um background-color em cada divisão do grid funcionava, então coloquei background em Header;Main;Footer. E funcionou! 
 
+```css
+hearde{background-color:  rgb(0, 0, 0, .5);}
+main{background-color:  rgb(0, 0, 0, .5);}
+footer{background-color:  rgb(0, 0, 0, .5);}
+```
 Após ajustar o fundo, detalhei o footer, porém não consegui deixar responsivo igual ao do site original. Ainda pesquisando para entender como é feito no Site e como adequar para o meu código!
 
 Logo, falta ajustar a parte de JS do Site, gostaria que o Saiba Mais funcionasse e os inputs também.
