@@ -18,7 +18,6 @@ O desafio proposto era reproduzir a página de login do site da [Netflix](https:
 
 ### Link do projeto 
 
-Aperte aqui para ver o Design Original da [Netflix Login](https://www.netflix.com/br/login)
 Aperte aqui para ver o [Meu Resultado](https://sarahprado.github.io/projeto-netflix-desafiodigitalcollege/)
 
 ## My process
