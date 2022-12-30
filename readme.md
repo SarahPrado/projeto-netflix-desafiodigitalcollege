@@ -53,7 +53,7 @@ body{
 Mesmo pesquisando, eu ainda queria continuar usando o display:grid, então lembrei que se eu colocasse um background-color em cada divisão do grid funcionava, então coloquei background em Header;Main;Footer. E funcionou! 
 
 ```css
-hearde{background-color:  rgb(0, 0, 0, .5);}
+header{background-color:  rgb(0, 0, 0, .5);}
 main{background-color:  rgb(0, 0, 0, .5);}
 footer{background-color:  rgb(0, 0, 0, .5);}
 ```
