@@ -10,7 +10,6 @@ O desafio proposto era reproduzir a página de login do site da [Netflix](https:
   - [Built with](#built-with)
   - [O que eu aprendi](#o-que-eu-aprendi)
   - [O desenvolvimento](#o-desenvolvimento)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 
